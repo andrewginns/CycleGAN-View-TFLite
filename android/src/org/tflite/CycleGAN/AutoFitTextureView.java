@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package org.tensorflow.demo;
+package org.tflite.CycleGAN;
 
 import android.content.Context;
 import android.util.AttributeSet;

@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package org.tensorflow.demo;
+package org.tflite.CycleGAN;
 
 import android.Manifest;
 import android.app.Activity;
@@ -31,8 +31,8 @@ import android.view.KeyEvent;
 import android.view.WindowManager;
 import android.widget.Toast;
 import java.nio.ByteBuffer;
-import org.tensorflow.demo.env.Logger;
-import org.tensorflow.demo.R;
+import org.tflite.CycleGAN.env.Logger;
+import org.tflite.CycleGAN.R;
 
 public abstract class CameraActivity extends Activity implements OnImageAvailableListener {
   private static final Logger LOGGER = new Logger();

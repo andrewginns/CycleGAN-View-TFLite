@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package org.tensorflow.demo;
+package org.tflite.CycleGAN;
 
 import android.app.Activity;
 import android.app.AlertDialog;
@@ -58,8 +58,8 @@ import java.util.Comparator;
 import java.util.List;
 import java.util.concurrent.Semaphore;
 import java.util.concurrent.TimeUnit;
-import org.tensorflow.demo.env.Logger;
-import org.tensorflow.demo.R;
+import org.tflite.CycleGAN.env.Logger;
+import org.tflite.CycleGAN.R;
 
 public class CameraConnectionFragment extends Fragment {
   private static final Logger LOGGER = new Logger();
