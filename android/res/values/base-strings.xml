@@ -17,5 +17,5 @@
 
 <resources>
     <string name="app_name">CycleGAN View TensorflowLite</string>
-    <string name="activity_name_stylize">CycleGAN-TFLite</string>
+    <string name="activity_name_stylize">TFLite-View</string>
 </resources>
