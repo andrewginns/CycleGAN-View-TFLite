@@ -1,4 +1,4 @@
-# CycleGAN Tensorflow-Lite for Android
+# CycleGAN View Tensorflow-Lite for Android
 
 Android App for inference on a trained CycleGAN model using the TFLite format
 
