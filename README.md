@@ -2,7 +2,6 @@
 
 Android App for inference on a trained CycleGAN model using the TFLite format
 
-## Pre-built apk https://github.com/andrewginns/CycleGAN-TFLite/releases
 ## Part of an MSc project https://github.com/andrewginns/MSc-Project
 
 The TFLite format is a new format opimised for mobile inference. This format allows for acceleration via the Android Neural Networks API available on all devices running Android 8.1 (API level 27) or higher.
